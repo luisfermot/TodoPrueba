@@ -1,0 +1,9 @@
+.btn-add{
+    position: absolute;
+    top: 29rem;
+    left: 90%;
+    z-index: 1;
+    height: 64px;
+    width: 64px;
+    
+}

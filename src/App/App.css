@@ -1,0 +1,30 @@
+.App{
+  display: grid;
+  grid-template-areas:  "header header"
+                        "option option"
+                        "footer footer";
+  grid-template-rows: 15%  repeat(auto-fill,minmax(100%,30rem)) 15%;
+  padding: 1rem;
+  justify-items: stretch;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+  grid-area: header;
+  /* background-color: blue; */
+  text-align: center;
+}
+
+.option {
+  grid-area: option;
+  /* background-color: red; */
+  justify-content: space-around;
+  background-color: rgba(188, 180, 180, 0.517);
+  padding: 1rem;
+}
+
+.footer{
+  grid-area: footer;
+  /* background-color: blueviolet; */
+}
+

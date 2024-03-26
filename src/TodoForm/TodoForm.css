@@ -1,0 +1,15 @@
+
+.conten-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.new-todo{
+    padding: 1em;
+    background-color: white;
+    border-radius: 5px;
+    display: block;
+    color:black;
+}

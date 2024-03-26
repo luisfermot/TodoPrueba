@@ -1,0 +1,16 @@
+.item-contenedor{
+    display: flex;
+    /* justify-content: space-around;   */
+    justify-content: space-between;  
+}
+
+.completa{
+    text-decoration: line-through;
+    color: gray;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.estado-abierta{
+    color: green;
+}
+
