@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoPrueba/static/css/main.0409c8ff.css",
+    "main.js": "/TodoPrueba/static/js/main.2ec1be58.js",
+    "index.html": "/TodoPrueba/index.html",
+    "main.0409c8ff.css.map": "/TodoPrueba/static/css/main.0409c8ff.css.map",
+    "main.2ec1be58.js.map": "/TodoPrueba/static/js/main.2ec1be58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0409c8ff.css",
+    "static/js/main.2ec1be58.js"
+  ]
+}
